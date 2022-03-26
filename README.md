@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 🤔 Vistor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/HavenTong/count.svg)
-
+<div align="center"><img src="https://profile-counter.glitch.me/HavenTong/count.svg" alt="Visitor Count" style="zoom:100%;" /></div>
