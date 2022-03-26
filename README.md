@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](header.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&duration=3500&multiline=true&width=600&height=100&lines=The+essential+thing+in+life;+is+not+conquering+but+fighting+well.)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HavenTong&show_icons=true&theme=tokyonight)
+
+
 
 🤔 Vistor Counter
 
