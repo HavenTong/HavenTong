@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![quote](https://tva1.sinaimg.cn/large/e6c9d24ely1gojrvalpdij21t40u042a.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&duration=3500&multiline=true&width=600&height=100&lines=The+essential+thing+in+life;+is+not+conquering+but+fighting+well.)](https://git.io/typing-svg)
 
