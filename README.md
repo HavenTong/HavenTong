@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&center=true&multiline=true&width=1000&height=60&lines=The+essential+thing+in+life+is+not+conquering+but+fighting+well+.)](https://git.io/typing-svg)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HavenTong&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HavenTong&amp;show_icons=true&amp;theme=tokyonight&amg;hide_border" alt="Anurag's GitHub stats" /></div>
 
 
 
